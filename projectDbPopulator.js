@@ -1,42 +1,88 @@
-const db = require("./dbConnection.js");
-const { Client } = require("pg");
-const data = require("./data.json");
+const projectData = require("./projectData.json");
+const pledgeData = require("./pledgeData.json");
 const fs = require("fs");
 
-// BEFORE RUNNING THIS FILE, GENERATE THE DATABASE and SCHEMA using following
-// command in BASH terminal:
-// psql < schema.sql
+let projectsSchematxt = fs.readFileSync("./projectsSchema.sql", "utf8");
+projectsSchematxt = JSON.stringify(projectsSchematxt);
+projectsSchematxt = projectsSchematxt.replace(/\\n/gi, "");
+projectsSchematxt = projectsSchematxt.replace(/"/gi, "");
 
-const insertData = function(data) {
-  for (let i = 0; i < data.length; i++) {
-    let entryArr = [
-      data[i].name,
-      data[i].creator,
-      data[i].creatorImg,
-      data[i].blurb,
-      data[i].thumbnail,
-      data[i].fullImg,
-      data[i].location,
-      data[i].category,
-      "THIS WILL BE A createdAt_date",
-      "THIS WILL BE A DESCRIPTION"
-    ];
+let pledgesSchematxt = fs.readFileSync("./pledgesSchema.sql", "utf8");
+pledgesSchematxt = JSON.stringify(pledgesSchematxt);
+pledgesSchematxt = pledgesSchematxt.replace(/\\n/gi, "");
+pledgesSchematxt = pledgesSchematxt.replace(/"/gi, "");
 
-    let queryStr =
-      "INSERT INTO projects (name, creator, creatorImg, blurb, thumbnail, " +
-      "fullImg, location, category, created_at, description) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10)";
+const seeder = database => {
+  return knex
+    .raw(`DROP DATABASE IF EXISTS ${database.name};`)
 
-    db.query(queryStr, entryArr, function(error, results) {
-      if (error) {
-        console.log("Error inserting into the database", error);
-      }
+    .then(() => {
+      console.log(`${database.name} database dropped`);
+      return knex.raw(`CREATE DATABASE ${database.name};`);
+    })
+    .then(() => {
+      console.log(`${database.name} database created`);
+      return knex.destroy();
+    })
+    .then(() => {
+      console.log("Connection ended");
+      knex = require("knex")({
+        client: "pg",
+        connection: {
+          database: database.name
+        }
+      });
+      console.log(`New Connection to ${database.name}`);
+      return knex.raw(database.schema);
+    })
+    .then(() => {
+      console.log("New table created");
+      return knex(database.tableName).insert(database.data);
+    })
+    .catch(err => {
+      console.log("There was an err: ", err);
+      return knex.destroy();
     });
-  }
 };
 
-insertData(data);
+let databases = [
+  {
+    name: "projects",
+    schema: projectsSchematxt,
+    data: projectData,
+    tableName: "projects"
+  },
+  {
+    name: "related_projects",
+    schema: projectsSchematxt,
+    data: projectData,
+    tableName: "projects"
+  },
+  {
+    name: "pledges",
+    schema: pledgesSchematxt,
+    data: pledgeData,
+    tableName: "pledges"
+  }
+];
 
-// let schematxt = fs.readFileSync("./data/schema.sql", "utf8");
-// schematxt = JSON.stringify(schematxt);
-// schematxt = schematxt.replace(/\\n/gi, "");
-// schematxt = schematxt.replace(/"/gi, "");
+var knex = require("knex")({
+  client: "pg",
+  connection: {
+    database: "postgres"
+  }
+});
+
+seeder(databases[0])
+  .then(() => {
+    console.log("compelted projects initialization");
+    return seeder(databases[1]);
+  })
+  .then(() => {
+    console.log("compelted related_projects initialization");
+    return seeder(databases[2]);
+  })
+  .then(() => {
+    console.log("compelted pledges initialization");
+    return knex.destroy();
+  });
