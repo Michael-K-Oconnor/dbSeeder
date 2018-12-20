@@ -1,0 +1,13 @@
+This file will generate and seed the 4 databases used for JumpStart. In order to seed databases locally:
+
+1. Clone this repo down
+2. npm i
+3. npm run seed
+
+
+There are a few requirements for this to run successfully:
+- There must be a 'postgres' database available on the computer. This database is provided by default when postgres is installed
+- There must be no current, active connections to any databases generated, including: projects, related_projects, pledges, commentstable
+- There must be a super-user configured named 'student' with password 'student'
+    - to create superuser (on Mac) from bash terminal (replace 'Michael' with name of your local super-user):
+      > sudo -u Michael createuser -P -s student
