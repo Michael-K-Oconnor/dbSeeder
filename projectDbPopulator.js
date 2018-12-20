@@ -1,16 +1,23 @@
-const projectData = require("./projectData.json");
-const pledgeData = require("./pledgeData.json");
+const projectData = require("./data/projectData.json");
+const pledgeData = require("./data/pledgeData.json");
+const commentData = require("./data/commentData.json");
+
 const fs = require("fs");
 
-let projectsSchematxt = fs.readFileSync("./projectsSchema.sql", "utf8");
+let projectsSchematxt = fs.readFileSync("./schemas/projectsSchema.sql", "utf8");
 projectsSchematxt = JSON.stringify(projectsSchematxt);
 projectsSchematxt = projectsSchematxt.replace(/\\n/gi, "");
 projectsSchematxt = projectsSchematxt.replace(/"/gi, "");
 
-let pledgesSchematxt = fs.readFileSync("./pledgesSchema.sql", "utf8");
+let pledgesSchematxt = fs.readFileSync("./schemas/pledgesSchema.sql", "utf8");
 pledgesSchematxt = JSON.stringify(pledgesSchematxt);
 pledgesSchematxt = pledgesSchematxt.replace(/\\n/gi, "");
 pledgesSchematxt = pledgesSchematxt.replace(/"/gi, "");
+
+let commentsSchematxt = fs.readFileSync("./schemas/commentsSchema.sql", "utf8");
+commentsSchematxt = JSON.stringify(commentsSchematxt);
+commentsSchematxt = commentsSchematxt.replace(/\\n/gi, "");
+commentsSchematxt = commentsSchematxt.replace(/"/gi, "");
 
 const seeder = database => {
   return knex
@@ -25,10 +32,12 @@ const seeder = database => {
       return knex.destroy();
     })
     .then(() => {
-      console.log("Connection ended");
+      console.log("Old connection ended");
       knex = require("knex")({
         client: "pg",
         connection: {
+          username: "student",
+          password: "student",
           database: database.name
         }
       });
@@ -63,12 +72,20 @@ let databases = [
     schema: pledgesSchematxt,
     data: pledgeData,
     tableName: "pledges"
+  },
+  {
+    name: "commentstable",
+    schema: commentsSchematxt,
+    data: commentData,
+    tableName: "comments_info"
   }
 ];
 
 var knex = require("knex")({
   client: "pg",
   connection: {
+    username: "student",
+    password: "student",
     database: "postgres"
   }
 });
@@ -84,5 +101,14 @@ seeder(databases[0])
   })
   .then(() => {
     console.log("compelted pledges initialization");
+    return seeder(databases[3]);
+  })
+  .then(() => {
+    console.log("compelted comments initialization");
+    console.log("all databases initialized");
     return knex.destroy();
+  })
+  .catch(err => {
+    console.log("There was an error generating databases: ", err);
+    knex.destroy();
   });
