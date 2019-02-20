@@ -8,10 +8,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/991/896/70b562d05dfe5cbd6009fd21b356cce1_original.jpeg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1540265586&auto=format&frame=1&q=92&s=4ee41378b32db6b35b57e8d20120ba57",
     "location": "Denver, CO",
     "category": "Food Trucks",
-    "goal": 40000,
-    "pledged": 24250,
-    "backer_count": 535,
-    "days_left": 21
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Mamma's {Food Truck} ..Where Happiness Is Homemade",
@@ -22,10 +20,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/011/776/60c31bc2cebdfd436454c08a9dd23477_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1540391052&auto=format&frame=1&q=92&s=2b9d8d8dc4182794f70ee68e239cf8c9",
     "location": "Providence, RI",
     "category": "Food Trucks",
-    "goal": 25000,
-    "pledged": 15880,
-    "backer_count": 165,
-    "days_left": 33
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "FIT FOOD",
@@ -36,10 +32,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/206/128/cca7aa74f5908876ecbeddd943de8323_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1541843186&auto=format&frame=1&q=92&s=6260535e6cbb6ba7600daf382630fa03",
     "location": "Italia, Italy",
     "category": "Food Trucks",
-    "goal": 300000,
-    "pledged": 41120,
-    "backer_count": 743,
-    "days_left": 22
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Big Mama's Kitchen & Catering Brick & Mortar Restaurant",
@@ -50,10 +44,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/547/211/3fd8950bb73e6a3ba529e6a8d329267c_original.jpeg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544672404&auto=format&frame=1&q=92&s=4b9d404681993f5fd6621daa990df812",
     "location": "Chicago, IL",
     "category": "Restaurants",
-    "goal": 5000,
-    "pledged": 170,
-    "backer_count": 1,
-    "days_left": 46
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Help Us Grow our Fleet with a Go Bananas Food Trailer",
@@ -64,10 +56,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/483/978/b425950910db87fbf3db68cf6af0ba32_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544050003&auto=format&frame=1&q=92&s=1460cab50f8a4968d759ec34d1cf91d5",
     "location": "St. Paul, MN",
     "category": "Food Trucks",
-    "goal": 12000,
-    "pledged": 10710,
-    "backer_count": 262,
-    "days_left": 6
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Heavenly Hawg BBQ. The BBQ that makes the angels sing.",
@@ -78,10 +68,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/393/129/8940575da5aa0f80ae8cc1965f5ca654_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543282541&auto=format&frame=1&q=92&s=f094305c96715ab9d1314458f477c0de",
     "location": "Campbellsville, KY",
     "category": "Food Trucks",
-    "goal": 10000,
-    "pledged": 4430,
-    "backer_count": 199,
-    "days_left": 7
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Hot dog cart business",
@@ -92,10 +80,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/319/593/69f2e771375140747f02944cea51efdf_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542660393&auto=format&frame=1&q=92&s=719cab1a14b4b4169e48e18d49db5690",
     "location": "Lugoff, SC",
     "category": "Food Trucks",
-    "goal": 12000,
-    "pledged": 8950,
-    "backer_count": 391,
-    "days_left": 36
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Creole Food Truck Tri-Cities",
@@ -106,10 +92,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/556/800/51f6743c47bf69aead04c58bc489b2c9_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544767041&auto=format&frame=1&q=92&s=1b8bbdaddb3f48eb1cc4be533256ee12",
     "location": "Kennewick, WA",
     "category": "Food",
-    "goal": 30000,
-    "pledged": 26850,
-    "backer_count": 327,
-    "days_left": 38
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Atlantas FIRST Fine Dining Vegan Food Truck",
@@ -120,10 +104,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/355/725/c319ea409dc4e7c74359ad705fc85bab_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542910772&auto=format&frame=1&q=92&s=29a78fe50422f53eaf6c1c222735bd88",
     "location": "Atlanta, GA",
     "category": "Food Trucks",
-    "goal": 25000,
-    "pledged": 8560,
-    "backer_count": 110,
-    "days_left": 30
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Voodoowiches Mobile Cafe",
@@ -134,10 +116,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/016/067/820/8a0382dc4bff2fb342a63c10ca999a27_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1545075094&auto=format&frame=1&q=92&s=b606e88452cf71705b67138e06a7da98",
     "location": "Tucson, AZ",
     "category": "Food Trucks",
-    "goal": 3000,
-    "pledged": 2160,
-    "backer_count": 53,
-    "days_left": 41
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Opening a BBQ Restaurant South East",
@@ -148,10 +128,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/803/350/293cd59982ca27df09c1be16ac506767_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1545158142&auto=format&frame=1&q=92&s=9f3ce2f9f699a1c71a4bd3a2aa1e046c",
     "location": "Hastings, UK",
     "category": "Food Trucks",
-    "goal": 40000,
-    "pledged": 14610,
-    "backer_count": 272,
-    "days_left": 42
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Sto On The Go! - The Store Comes To You",
@@ -162,10 +140,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/491/062/9e18467822b1465370a79ed8a5ba41e8_original.jpeg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544112995&auto=format&frame=1&q=92&s=58879a4e803b85ecaa8a905170a08c43",
     "location": "Detroit, MI",
     "category": "Food Trucks",
-    "goal": 75000,
-    "pledged": 5730,
-    "backer_count": 61,
-    "days_left": 43
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Reboot the Suit: Bring Back Neil Armstrong’s Spacesuit",
@@ -176,10 +152,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/012/183/795/68d9b7d5e0c81017115621e83b5cba92_original.jpeg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1463739852&auto=format&frame=1&q=92&s=f81571cf4fa011b53a7bf761a0789e04",
     "location": "Washington, DC",
     "category": "Space Exploration",
-    "goal": 500000,
-    "pledged": 371340,
-    "backer_count": 5189,
-    "days_left": 39
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "The Vanamo Online Game Museum",
@@ -190,10 +164,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/011/305/532/f5e2724982d0e17730573b022084f196_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1463680731&auto=format&frame=1&q=92&s=4186881b2bbb9611ea7885162fc4ed90",
     "location": "Brooklyn, NY",
     "category": "Video Games",
-    "goal": 8500,
-    "pledged": 5920,
-    "backer_count": 389,
-    "days_left": 3
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Restore Historic Mission Control",
@@ -204,10 +176,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/017/540/596/9ae41fb8a99013f248c2faca0289b4da_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1500308999&auto=format&frame=1&q=92&s=bffa0b8134347e49c34c8e873c4f16f0",
     "location": "Houston, TX",
     "category": "Architecture",
-    "goal": 250000,
-    "pledged": 222370,
-    "backer_count": 4655,
-    "days_left": 37
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Mary Hoffman's StoryApp Tour: In the Footsteps of Giants",
@@ -218,10 +188,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/012/120/324/636fce611d3845992d1227f64290b529_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1463737803&auto=format&frame=1&q=92&s=f7c766a9815f2afab5e9af79416b252e",
     "location": "New York, NY",
     "category": "Young Adult",
-    "goal": 40000,
-    "pledged": 3200,
-    "backer_count": 36,
-    "days_left": 19
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Mini Museum",
@@ -232,10 +200,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/011/569/016/edd63191db0ce870af66dc7efe36b3b6_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1463684599&auto=format&frame=1&q=92&s=c7a669ab32668b7afabf33b779456ebb",
     "location": "Sterling, VA",
     "category": "Mixed Media",
-    "goal": 38000,
-    "pledged": 23350,
-    "backer_count": 766,
-    "days_left": 41
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Nonstop Metropolis: The Remix",
@@ -246,10 +212,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/012/389/032/c51e06a8e3c48e8d5f1b3678036402c8_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1463758532&auto=format&frame=1&q=92&s=2d7b9cb30009a2c5d803135a9b9ab31c",
     "location": "Queens, NY",
     "category": "Art",
-    "goal": 30000,
-    "pledged": 12380,
-    "backer_count": 463,
-    "days_left": 27
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "The Playroom - an interactive synthesizer space",
@@ -260,10 +224,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/021/342/553/1b2f513e04369be531f2fb0112258429_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1536070163&auto=format&frame=1&q=92&s=bc9b1729f91daf4e5760903d5d9a1596",
     "location": "Fribourg, Switzerland",
     "category": "Music",
-    "goal": 48000,
-    "pledged": 24000,
-    "backer_count": 263,
-    "days_left": 8
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Take Me (I'm Yours)",
@@ -274,10 +236,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/013/278/804/de88a60351be1c78a89a9a392d8d3820_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1470696951&auto=format&frame=1&q=92&s=844206fc9617350fa4dff0b166f0a78f",
     "location": "New York, NY",
     "category": "Art",
-    "goal": 30000,
-    "pledged": 9300,
-    "backer_count": 98,
-    "days_left": 45
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Mini Museum 3: The Third Edition",
@@ -288,10 +248,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/015/156/122/ff05097e6c9930b802ef0f36b0c45a9c_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1484839026&auto=format&frame=1&q=92&s=f72e296863ca17c3932eaeafef02ccf1",
     "location": "Fairfax, VA",
     "category": "Art",
-    "goal": 200000,
-    "pledged": 66930,
-    "backer_count": 1434,
-    "days_left": 37
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "The Freedom Trail Pop Up Book - A Boston Original",
@@ -302,10 +260,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/011/693/605/3c7ff9c3b9d791f2d5e0df940b485f25_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1463686885&auto=format&frame=1&q=92&s=4afaaec846934ad431c648aab88e93bc",
     "location": "Boston, MA",
     "category": "Illustration",
-    "goal": 52500,
-    "pledged": 46070,
-    "backer_count": 2079,
-    "days_left": 50
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Bring Ai Weiwei's Tree sculptures to London's Royal Academy",
@@ -316,10 +272,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/012/176/709/03fc677f6e443453d78df0b97f8769b5_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1463739621&auto=format&frame=1&q=92&s=ab947d4ced3d8ac2557ef9db7767c500",
     "location": "London, UK",
     "category": "Sculpture",
-    "goal": 100000,
-    "pledged": 90840,
-    "backer_count": 1853,
-    "days_left": 49
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Never Built New York",
@@ -330,10 +284,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/015/947/177/5ef37c0bacda786bce22551feb8eb514_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1494270867&auto=format&frame=1&q=92&s=8bca58767495be38dec68893826217e5",
     "location": "Queens, NY",
     "category": "Art",
-    "goal": 35000,
-    "pledged": 22400,
-    "backer_count": 345,
-    "days_left": 16
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Phrozen Transform｜The LCD 3D Printer that Lets You Dream Big",
@@ -344,10 +296,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/575/508/5ca7e14b1fb839eafb7d383a607ac687_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1545021650&auto=format&frame=1&q=92&s=dd782ad5127a2633402d652a7d6b5314",
     "location": "Taipei City, Taiwan",
     "category": "3D Printing",
-    "goal": 30000,
-    "pledged": 22180,
-    "backer_count": 307,
-    "days_left": 31
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Popula: the Alt-Global Magazine of News and Culture",
@@ -358,10 +308,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/564/523/3b68ab225e49dcf7b27ac7f800f68998_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544850048&auto=format&frame=1&q=92&s=aacf35502ed1dc54283318df1235942e",
     "location": "Los Angeles, CA",
     "category": "Journalism",
-    "goal": 25000,
-    "pledged": 6910,
-    "backer_count": 360,
-    "days_left": 20
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "A bar with home-brewed beverages by Klint & Bro.",
@@ -372,10 +320,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/539/739/0b8f4baadaf6dae31a6ebd47ebc8e3b7_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544018946&auto=format&frame=1&q=92&s=b8f64388d0c0c1a5850c853aa12f51d1",
     "location": "Copenhagen, Denmark",
     "category": "Drinks",
-    "goal": 150000,
-    "pledged": 12200,
-    "backer_count": 153,
-    "days_left": 19
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Electric Six - Live In Liverpool",
@@ -386,10 +332,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/890/263/6b093b468c9c6adaf0756f19f6ae7746_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1539535250&auto=format&frame=1&q=92&s=ea2c9a5a9c675a38539fa6ad6557101d",
     "location": "Detroit, MI",
     "category": "Music",
-    "goal": 30000,
-    "pledged": 15620,
-    "backer_count": 264,
-    "days_left": 8
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Knights of Asherah Volume 1 Fantasy Graphic Novel",
@@ -400,10 +344,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/451/062/f469d024d65313f91c53afbf62b92c44_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543795181&auto=format&frame=1&q=92&s=3b96e91fbe1d7ee3cbb1c6375b1b65a6",
     "location": "Klamath Falls, OR",
     "category": "Graphic Novels",
-    "goal": 3000,
-    "pledged": 1910,
-    "backer_count": 102,
-    "days_left": 9
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Hive Explorer | First Smart Insect Farm for Starters | STEM",
@@ -414,10 +356,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/971/058/42373de2228e5048f8caef770635fdc8_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544673334&auto=format&frame=1&q=92&s=d10e4c6146b24f65b3549d9a6bafa0b7",
     "location": "Vienna, Austria",
     "category": "Hardware",
-    "goal": 90000,
-    "pledged": 68120,
-    "backer_count": 1851,
-    "days_left": 5
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "MOUSE BOOKS: SEASON 2",
@@ -428,10 +368,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/463/975/55cce6a4b06e8b145e7c80e6e9e45c38_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543896759&auto=format&frame=1&q=92&s=acd76178b82f1990760bede0df259c17",
     "location": "Chicago, IL",
     "category": "Publishing",
-    "goal": 10000,
-    "pledged": 5190,
-    "backer_count": 87,
-    "days_left": 46
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "ThroughMe",
@@ -442,10 +380,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/026/736/cfce4b835094a978c32ec751caa9924e_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542649988&auto=format&frame=1&q=92&s=0eff6bf7c9a8cf048ae103c1f8cdd8d6",
     "location": "Montreal, Canada",
     "category": "Dance",
-    "goal": 12000,
-    "pledged": 1510,
-    "backer_count": 36,
-    "days_left": 38
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Chirps Cricket Protein Powder: Eat Bugs, Get Buff!",
@@ -456,10 +392,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/415/485/d5d2126be9b1e1ea7d39f9c02ef069c2_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543450525&auto=format&frame=1&q=92&s=7f836bebfc41d8fa5d28d6579c739a47",
     "location": "San Francisco, CA",
     "category": "Food",
-    "goal": 10000,
-    "pledged": 8430,
-    "backer_count": 123,
-    "days_left": 50
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Killing Kelly",
@@ -470,10 +404,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/220/568/5cb310c980e9d3189357f667b39b787e_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1541944063&auto=format&frame=1&q=92&s=4b4b6bff689cb4f2046a55d8e06ede0e",
     "location": "London, UK",
     "category": "Documentary",
-    "goal": 50000,
-    "pledged": 33670,
-    "backer_count": 918,
-    "days_left": 10
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Jobcentre Rejects - Ultra Rare NWOBHM 1978-1982 vinyl album",
@@ -484,10 +416,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/559/336/9e414f5714e4e7df01f2946e5a70acba_original.JPG?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544798485&auto=format&frame=1&q=92&s=a901234b4c478198a054d30ac7aaa16f",
     "location": "Gothenburg, Sweden",
     "category": "Metal",
-    "goal": 1000,
-    "pledged": 460,
-    "backer_count": 4,
-    "days_left": 14
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Skeleton Flower World Premiere",
@@ -498,10 +428,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/479/399/3b668504d12b17cd43e7f0a5408fae04_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544023027&auto=format&frame=1&q=92&s=678c2cf5a870f56cbecd8665c05b994b",
     "location": "Seattle, WA",
     "category": "Experimental",
-    "goal": 6000,
-    "pledged": 3550,
-    "backer_count": 36,
-    "days_left": 50
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Phrozen Transform｜The LCD 3D Printer that Lets You Dream Big",
@@ -512,10 +440,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/575/508/5ca7e14b1fb839eafb7d383a607ac687_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1545021650&auto=format&frame=1&q=92&s=dd782ad5127a2633402d652a7d6b5314",
     "location": "Taipei City, Taiwan",
     "category": "3D Printing",
-    "goal": 30000,
-    "pledged": 13400,
-    "backer_count": 216,
-    "days_left": 2
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Popula: the Alt-Global Magazine of News and Culture",
@@ -526,10 +452,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/564/523/3b68ab225e49dcf7b27ac7f800f68998_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544850048&auto=format&frame=1&q=92&s=aacf35502ed1dc54283318df1235942e",
     "location": "Los Angeles, CA",
     "category": "Journalism",
-    "goal": 25000,
-    "pledged": 5650,
-    "backer_count": 397,
-    "days_left": 17
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "A bar with home-brewed beverages by Klint & Bro.",
@@ -540,10 +464,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/539/739/0b8f4baadaf6dae31a6ebd47ebc8e3b7_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544018946&auto=format&frame=1&q=92&s=b8f64388d0c0c1a5850c853aa12f51d1",
     "location": "Copenhagen, Denmark",
     "category": "Drinks",
-    "goal": 150000,
-    "pledged": 125440,
-    "backer_count": 8098,
-    "days_left": 51
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Electric Six - Live In Liverpool",
@@ -554,10 +476,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/890/263/6b093b468c9c6adaf0756f19f6ae7746_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1539535250&auto=format&frame=1&q=92&s=ea2c9a5a9c675a38539fa6ad6557101d",
     "location": "Detroit, MI",
     "category": "Music",
-    "goal": 30000,
-    "pledged": 8850,
-    "backer_count": 203,
-    "days_left": 24
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Knights of Asherah Volume 1 Fantasy Graphic Novel",
@@ -568,10 +488,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/451/062/f469d024d65313f91c53afbf62b92c44_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543795181&auto=format&frame=1&q=92&s=3b96e91fbe1d7ee3cbb1c6375b1b65a6",
     "location": "Klamath Falls, OR",
     "category": "Graphic Novels",
-    "goal": 3000,
-    "pledged": 1750,
-    "backer_count": 17,
-    "days_left": 50
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Hive Explorer | First Smart Insect Farm for Starters | STEM",
@@ -582,10 +500,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/971/058/42373de2228e5048f8caef770635fdc8_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544673334&auto=format&frame=1&q=92&s=d10e4c6146b24f65b3549d9a6bafa0b7",
     "location": "Vienna, Austria",
     "category": "Hardware",
-    "goal": 90000,
-    "pledged": 1370,
-    "backer_count": 42,
-    "days_left": 51
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "MOUSE BOOKS: SEASON 2",
@@ -596,10 +512,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/463/975/55cce6a4b06e8b145e7c80e6e9e45c38_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543896759&auto=format&frame=1&q=92&s=acd76178b82f1990760bede0df259c17",
     "location": "Chicago, IL",
     "category": "Publishing",
-    "goal": 10000,
-    "pledged": 1290,
-    "backer_count": 15,
-    "days_left": 21
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "ThroughMe",
@@ -610,10 +524,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/026/736/cfce4b835094a978c32ec751caa9924e_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542649988&auto=format&frame=1&q=92&s=0eff6bf7c9a8cf048ae103c1f8cdd8d6",
     "location": "Montreal, Canada",
     "category": "Dance",
-    "goal": 12000,
-    "pledged": 3770,
-    "backer_count": 50,
-    "days_left": 4
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Chirps Cricket Protein Powder: Eat Bugs, Get Buff!",
@@ -624,10 +536,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/415/485/d5d2126be9b1e1ea7d39f9c02ef069c2_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543450525&auto=format&frame=1&q=92&s=7f836bebfc41d8fa5d28d6579c739a47",
     "location": "San Francisco, CA",
     "category": "Food",
-    "goal": 10000,
-    "pledged": 9950,
-    "backer_count": 307,
-    "days_left": 37
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Killing Kelly",
@@ -638,10 +548,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/220/568/5cb310c980e9d3189357f667b39b787e_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1541944063&auto=format&frame=1&q=92&s=4b4b6bff689cb4f2046a55d8e06ede0e",
     "location": "London, UK",
     "category": "Documentary",
-    "goal": 50000,
-    "pledged": 11370,
-    "backer_count": 278,
-    "days_left": 49
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Jobcentre Rejects - Ultra Rare NWOBHM 1978-1982 vinyl album",
@@ -652,10 +560,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/559/336/9e414f5714e4e7df01f2946e5a70acba_original.JPG?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544798485&auto=format&frame=1&q=92&s=a901234b4c478198a054d30ac7aaa16f",
     "location": "Gothenburg, Sweden",
     "category": "Metal",
-    "goal": 1000,
-    "pledged": 660,
-    "backer_count": 7,
-    "days_left": 51
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Skeleton Flower World Premiere",
@@ -666,10 +572,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/479/399/3b668504d12b17cd43e7f0a5408fae04_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544023027&auto=format&frame=1&q=92&s=678c2cf5a870f56cbecd8665c05b994b",
     "location": "Seattle, WA",
     "category": "Experimental",
-    "goal": 6000,
-    "pledged": 2000,
-    "backer_count": 25,
-    "days_left": 5
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Phrozen Transform｜The LCD 3D Printer that Lets You Dream Big",
@@ -680,10 +584,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/575/508/5ca7e14b1fb839eafb7d383a607ac687_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1545021650&auto=format&frame=1&q=92&s=dd782ad5127a2633402d652a7d6b5314",
     "location": "Taipei City, Taiwan",
     "category": "3D Printing",
-    "goal": 30000,
-    "pledged": 5860,
-    "backer_count": 97,
-    "days_left": 30
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Popula: the Alt-Global Magazine of News and Culture",
@@ -694,10 +596,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/564/523/3b68ab225e49dcf7b27ac7f800f68998_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544850048&auto=format&frame=1&q=92&s=aacf35502ed1dc54283318df1235942e",
     "location": "Los Angeles, CA",
     "category": "Journalism",
-    "goal": 25000,
-    "pledged": 10440,
-    "backer_count": 137,
-    "days_left": 15
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "A bar with home-brewed beverages by Klint & Bro.",
@@ -708,10 +608,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/539/739/0b8f4baadaf6dae31a6ebd47ebc8e3b7_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544018946&auto=format&frame=1&q=92&s=b8f64388d0c0c1a5850c853aa12f51d1",
     "location": "Copenhagen, Denmark",
     "category": "Drinks",
-    "goal": 150000,
-    "pledged": 141080,
-    "backer_count": 2283,
-    "days_left": 30
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Electric Six - Live In Liverpool",
@@ -722,10 +620,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/890/263/6b093b468c9c6adaf0756f19f6ae7746_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1539535250&auto=format&frame=1&q=92&s=ea2c9a5a9c675a38539fa6ad6557101d",
     "location": "Detroit, MI",
     "category": "Music",
-    "goal": 30000,
-    "pledged": 4820,
-    "backer_count": 81,
-    "days_left": 41
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Knights of Asherah Volume 1 Fantasy Graphic Novel",
@@ -736,10 +632,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/451/062/f469d024d65313f91c53afbf62b92c44_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543795181&auto=format&frame=1&q=92&s=3b96e91fbe1d7ee3cbb1c6375b1b65a6",
     "location": "Klamath Falls, OR",
     "category": "Graphic Novels",
-    "goal": 3000,
-    "pledged": 2310,
-    "backer_count": 226,
-    "days_left": 5
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Hive Explorer | First Smart Insect Farm for Starters | STEM",
@@ -750,10 +644,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/971/058/42373de2228e5048f8caef770635fdc8_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544673334&auto=format&frame=1&q=92&s=d10e4c6146b24f65b3549d9a6bafa0b7",
     "location": "Vienna, Austria",
     "category": "Hardware",
-    "goal": 90000,
-    "pledged": 22660,
-    "backer_count": 632,
-    "days_left": 31
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "MOUSE BOOKS: SEASON 2",
@@ -764,10 +656,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/463/975/55cce6a4b06e8b145e7c80e6e9e45c38_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543896759&auto=format&frame=1&q=92&s=acd76178b82f1990760bede0df259c17",
     "location": "Chicago, IL",
     "category": "Publishing",
-    "goal": 10000,
-    "pledged": 990,
-    "backer_count": 10,
-    "days_left": 44
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "ThroughMe",
@@ -778,10 +668,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/026/736/cfce4b835094a978c32ec751caa9924e_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542649988&auto=format&frame=1&q=92&s=0eff6bf7c9a8cf048ae103c1f8cdd8d6",
     "location": "Montreal, Canada",
     "category": "Dance",
-    "goal": 12000,
-    "pledged": 1420,
-    "backer_count": 17,
-    "days_left": 11
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Chirps Cricket Protein Powder: Eat Bugs, Get Buff!",
@@ -792,10 +680,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/415/485/d5d2126be9b1e1ea7d39f9c02ef069c2_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543450525&auto=format&frame=1&q=92&s=7f836bebfc41d8fa5d28d6579c739a47",
     "location": "San Francisco, CA",
     "category": "Food",
-    "goal": 10000,
-    "pledged": 8850,
-    "backer_count": 147,
-    "days_left": 30
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Killing Kelly",
@@ -806,10 +692,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/220/568/5cb310c980e9d3189357f667b39b787e_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1541944063&auto=format&frame=1&q=92&s=4b4b6bff689cb4f2046a55d8e06ede0e",
     "location": "London, UK",
     "category": "Documentary",
-    "goal": 50000,
-    "pledged": 38960,
-    "backer_count": 685,
-    "days_left": 34
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Jobcentre Rejects - Ultra Rare NWOBHM 1978-1982 vinyl album",
@@ -820,10 +704,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/559/336/9e414f5714e4e7df01f2946e5a70acba_original.JPG?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544798485&auto=format&frame=1&q=92&s=a901234b4c478198a054d30ac7aaa16f",
     "location": "Gothenburg, Sweden",
     "category": "Metal",
-    "goal": 1000,
-    "pledged": 370,
-    "backer_count": 27,
-    "days_left": 36
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Skeleton Flower World Premiere",
@@ -834,10 +716,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/479/399/3b668504d12b17cd43e7f0a5408fae04_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544023027&auto=format&frame=1&q=92&s=678c2cf5a870f56cbecd8665c05b994b",
     "location": "Seattle, WA",
     "category": "Experimental",
-    "goal": 6000,
-    "pledged": 4980,
-    "backer_count": 136,
-    "days_left": 6
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "3D Shopping with WalkTheWeb 3D Technology!",
@@ -848,10 +728,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/579/664/bf8e1548cb4af143d35d3f8352589dfe_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1545066818&auto=format&frame=1&q=92&s=bffc03f2bff87ee77f2e163c2a976379",
     "location": "San Diego, CA",
     "category": "Live Games",
-    "goal": 50000,
-    "pledged": 11010,
-    "backer_count": 453,
-    "days_left": 21
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Pixel - change your Wi-Fi game forever",
@@ -862,10 +740,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/441/262/e0f052bb21fb520c6e8cdc666af0d92a_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544283377&auto=format&frame=1&q=92&s=0612eca2d06624420d86366bc6df6095",
     "location": "Leeds, UK",
     "category": "Gadgets",
-    "goal": 1000,
-    "pledged": 250,
-    "backer_count": 4,
-    "days_left": 16
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Snapshot",
@@ -876,10 +752,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/143/604/f77865d209492a8b21c78ad9fabe0bd6_original.JPG?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1541408227&auto=format&frame=1&q=92&s=c7f135c55d3d42c64563b8df0f2b5aaf",
     "location": "Fremont, CA",
     "category": "Tabletop Games",
-    "goal": 10000,
-    "pledged": 3410,
-    "backer_count": 128,
-    "days_left": 18
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "World's First 'Game-guided' Portable Nebulizer",
@@ -890,10 +764,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/292/896/822b4cd3451215af05d4f0e1c94c8d51_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542408767&auto=format&frame=1&q=92&s=5e36d2ed0e052e5e497167612f3e3f1d",
     "location": "Miami, FL",
     "category": "Gadgets",
-    "goal": 15000,
-    "pledged": 11330,
-    "backer_count": 129,
-    "days_left": 9
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Suits: Absolute Power",
@@ -904,10 +776,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/533/138/7e5a9cd9549da54782260bfddb2819e7_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544546808&auto=format&frame=1&q=92&s=b9000c5279d6dfe5b51d629c123a7d87",
     "location": "Tampa, FL",
     "category": "Video Games",
-    "goal": 3000,
-    "pledged": 1370,
-    "backer_count": 19,
-    "days_left": 18
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Typing faster ™ 🐤",
@@ -918,10 +788,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/047/079/2d90b5dac0e8c29c73b08ec89437fe28_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1540657186&auto=format&frame=1&q=92&s=3f0c011ed08761729f1371c90f7eb730",
     "location": "Tampa, FL",
     "category": "Video Games",
-    "goal": 950,
-    "pledged": 870,
-    "backer_count": 24,
-    "days_left": 17
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Escape My Reality - Live and At Home Escape Room Experience",
@@ -932,10 +800,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/300/183/1a98c4e69e629fdf7aa59116579eecf6_original.jpeg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542485173&auto=format&frame=1&q=92&s=4f438435d99c0030503dc16149f05c3d",
     "location": "Scranton, PA",
     "category": "Games",
-    "goal": 10000,
-    "pledged": 7090,
-    "backer_count": 521,
-    "days_left": 6
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Metal Dice of Ancient Dragons Series",
@@ -946,10 +812,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/545/576/77dd6e7622aa5291edd0f7e5883916ae_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544656347&auto=format&frame=1&q=92&s=1bad9d1ff5ab01d71263bb70345f00b4",
     "location": "Columbus, OH",
     "category": "Tabletop Games",
-    "goal": 10000,
-    "pledged": 6800,
-    "backer_count": 190,
-    "days_left": 49
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Grandma Horror Game",
@@ -960,10 +824,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/553/730/fa04d2b39ad7a59affcf136656870d04_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544735002&auto=format&frame=1&q=92&s=bbfed4bca3d3c4e3114add8c98a1ae2b",
     "location": "Atlanta, GA",
     "category": "Video Games",
-    "goal": 5000,
-    "pledged": 2870,
-    "backer_count": 36,
-    "days_left": 47
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "The Hidden King Deck Luxury Editions.",
@@ -974,10 +836,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/242/653/66f766edb3424cb47a9f59018dd526cd_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1545116952&auto=format&frame=1&q=92&s=488877c066e46f245b24e076c48afae4",
     "location": "Tainan City, Taiwan",
     "category": "Playing Cards",
-    "goal": 62606,
-    "pledged": 31280,
-    "backer_count": 1145,
-    "days_left": 36
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Hall of Heroes, a pub at Infinity Flux",
@@ -988,10 +848,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/379/388/997b5008d55a11110ef59eaae3e82aa0_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543166842&auto=format&frame=1&q=92&s=7bd171942ff9914d7117ae68eefb0c0a",
     "location": "Chattanooga, TN",
     "category": "Food",
-    "goal": 9000,
-    "pledged": 2790,
-    "backer_count": 36,
-    "days_left": 5
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Ancient Zulu: The Never Ending Game",
@@ -1002,10 +860,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/131/168/509fa067ac83b5a5a62aad2cf2a12ecc_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1541281871&auto=format&frame=1&q=92&s=21619122c1d851ec3815a646c7a7c52b",
     "location": "Reno, NV",
     "category": "Video Games",
-    "goal": 2000,
-    "pledged": 1790,
-    "backer_count": 77,
-    "days_left": 16
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "The Longhaul Pant - Merino performance in style by Woolly",
@@ -1016,10 +872,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/545/767/214a401b2c2dc0bcb3ae48824b5640e1_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544658044&auto=format&frame=1&q=92&s=9abf66c86af16e006526f949ab78617f",
     "location": "Seattle, WA",
     "category": "Apparel",
-    "goal": 20000,
-    "pledged": 1030,
-    "backer_count": 10,
-    "days_left": 9
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "CoQuiNutt Wallets: The Best Wallets Grow on Trees.",
@@ -1030,10 +884,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/052/359/e956ce82b124d8f0fa8d576e65cc6131_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1540719333&auto=format&frame=1&q=92&s=680b50c94914e665e8dc3668300088f5",
     "location": "Columbia, MD",
     "category": "Accessories",
-    "goal": 1500,
-    "pledged": 1100,
-    "backer_count": 25,
-    "days_left": 4
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Aiit clothing brand",
@@ -1044,10 +896,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/272/056/ec301af3dc58e482c95c79bf1a410ffd_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542898401&auto=format&frame=1&q=92&s=8bc9c94ab322c28e4535f57d9fc3589d",
     "location": "Oslo, Norway",
     "category": "Fashion",
-    "goal": 1375,
-    "pledged": 980,
-    "backer_count": 18,
-    "days_left": 16
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Fashion Designer Jasmine Nicole",
@@ -1058,10 +908,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/513/565/8575538ea535b7c16b0e7620b8534e8b_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544365629&auto=format&frame=1&q=92&s=4df6a023589d1bc0617999e832742582",
     "location": "St. Louis, MO",
     "category": "Apparel",
-    "goal": 900,
-    "pledged": 240,
-    "backer_count": 2,
-    "days_left": 41
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "NARSIA SUIT: Easy wash, carry and wear, New idea how to wear",
@@ -1072,10 +920,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/345/329/2b6fb304cf14d05f08b4068320532148_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542828618&auto=format&frame=1&q=92&s=5d194b8e082edf4b7e8bbf0b34490652",
     "location": "Newport Beach, CA",
     "category": "Childrenswear",
-    "goal": 5000,
-    "pledged": 4710,
-    "backer_count": 58,
-    "days_left": 48
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Sundial's English Initiative-Dressage, Eventing, H/J Designs",
@@ -1086,10 +932,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/965/994/5f21e8dc78ad8102c0bc5cf29610d71e_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1540061693&auto=format&frame=1&q=92&s=bb1ec203cda7d84c80307a1a2f385497",
     "location": "Cleveland, OH",
     "category": "Apparel",
-    "goal": 12500,
-    "pledged": 12210,
-    "backer_count": 137,
-    "days_left": 17
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Agape (God's unconditional love) shirt line",
@@ -1100,10 +944,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/321/130/5f7137d3763ced79b9c2d59236a588b8_original.JPG?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542667932&auto=format&frame=1&q=92&s=78099ddd0d2183aee2422c76012e67eb",
     "location": "Augusta, GA",
     "category": "Apparel",
-    "goal": 10000,
-    "pledged": 9090,
-    "backer_count": 173,
-    "days_left": 2
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Take Your Medicine",
@@ -1114,10 +956,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/509/352/ec4864e215a0e265e3a82a7477a4114f_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544298776&auto=format&frame=1&q=92&s=40cd1bab79d180e46d2eff2cc4052db3",
     "location": "Phoenix, AZ",
     "category": "Apparel",
-    "goal": 3500,
-    "pledged": 580,
-    "backer_count": 7,
-    "days_left": 29
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "WOW BELT: The first handcrafted beep-free belt brand.",
@@ -1128,10 +968,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/358/328/e85eb8f7ae9b92c826668923a1dfb806_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1539020900&auto=format&frame=1&q=92&s=a600654fe4271db7986945eaa670a239",
     "location": "Florence, Italy",
     "category": "Accessories",
-    "goal": 10000,
-    "pledged": 5000,
-    "backer_count": 170,
-    "days_left": 10
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "MUNAMER SWIMWEAR: ITALIAN FASHION BURKINI for MODEST MARKET",
@@ -1142,10 +980,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/979/222/2a7887cc5f159c814f1841ab82ec112b_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542396925&auto=format&frame=1&q=92&s=f1ad6733d1377be3336952b9228bbcf1",
     "location": "Italia, Italy",
     "category": "Apparel",
-    "goal": 15000,
-    "pledged": 8220,
-    "backer_count": 187,
-    "days_left": 32
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "LK london the next generation",
@@ -1156,10 +992,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/385/671/15b6f735d07d45f4e2e8085ba0f983c9_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543235075&auto=format&frame=1&q=92&s=fa74ce41f17c0cd60c7630a8e4156588",
     "location": "London, UK",
     "category": "Childrenswear",
-    "goal": 150000,
-    "pledged": 122740,
-    "backer_count": 1809,
-    "days_left": 48
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "The First Ever Fatherhood Backpack",
@@ -1170,10 +1004,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/414/749/cf9a016afd21c0aa48acc6a8b9533d88_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543444866&auto=format&frame=1&q=92&s=4d58b45b04d04cf59abca0888c4a4b8b",
     "location": "Sacramento, CA",
     "category": "Accessories",
-    "goal": 9000,
-    "pledged": 5750,
-    "backer_count": 70,
-    "days_left": 29
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Garry Roost's 'Warhol: Bullet Karma' PRINT EDITION",
@@ -1184,10 +1016,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/419/492/e7dfbb6ceccd58c832bf738b60557691_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543489844&auto=format&frame=1&q=92&s=ffb7b28241a0e9a7682de91bcf180e76",
     "location": "Edinburgh, UK",
     "category": "Publishing",
-    "goal": 750,
-    "pledged": 140,
-    "backer_count": 4,
-    "days_left": 14
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Art Prints for Mental Illness",
@@ -1198,10 +1028,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/083/321/a547e74430bba3d56b35c6610962b912_original.jpeg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1540936771&auto=format&frame=1&q=92&s=1ef4393c25321b74db048a4b5d3ca85b",
     "location": "San Bernardino, CA",
     "category": "Illustration",
-    "goal": 2000,
-    "pledged": 50,
-    "backer_count": 0,
-    "days_left": 11
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "V-Art X Doryuu Kickstarter",
@@ -1212,10 +1040,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/195/796/3589d1df9393c9e3444b9d18edc7b48a_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544388301&auto=format&frame=1&q=92&s=9ce97f6b50cf7daec16f9141d17c67bd",
     "location": "Bradford, UK",
     "category": "Fashion",
-    "goal": 1000,
-    "pledged": 380,
-    "backer_count": 4,
-    "days_left": 7
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "WoW Crest Charms",
@@ -1226,10 +1052,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/163/449/7ded1ec165b2a3fd94c850058d912c82_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1541526387&auto=format&frame=1&q=92&s=1ce2144be62eefe6c2ba5c28f27da349",
     "location": "Acworth, GA",
     "category": "Mixed Media",
-    "goal": 600,
-    "pledged": 140,
-    "backer_count": 1,
-    "days_left": 42
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Hanshi Charlie - a Book and Film about Charlie Lenz",
@@ -1240,10 +1064,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/285/362/8f75e5161a1273cafc899a5bf97ac6d8_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542732589&auto=format&frame=1&q=92&s=1b13c3724d14b7880c8dd597dfcc25eb",
     "location": "Zurich, Switzerland",
     "category": "Publishing",
-    "goal": 20000,
-    "pledged": 1540,
-    "backer_count": 17,
-    "days_left": 35
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Stationery Subscription Club",
@@ -1254,10 +1076,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/333/946/69d179e383d34275936074dbec6f5496_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542750451&auto=format&frame=1&q=92&s=620e97bed430b3f2ad1629e87cabd9d9",
     "location": "Omaha, NE",
     "category": "Digital Art",
-    "goal": 500,
-    "pledged": 280,
-    "backer_count": 5,
-    "days_left": 51
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Chill Cat Shirt [CCS]",
@@ -1268,10 +1088,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/461/867/3665db9e4693cb67de4b1c20dccf3c8b_original.JPG?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543880131&auto=format&frame=1&q=92&s=53c4ab4741d61d494a35da1be974528c",
     "location": "Singapore, Singapore",
     "category": "Illustration",
-    "goal": 1000,
-    "pledged": 330,
-    "backer_count": 4,
-    "days_left": 2
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Baby T.rex Dinosaur Puppet!",
@@ -1282,10 +1100,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/367/739/aa9b14c8d96b8e30de04ba23c6e2666f_original.JPG?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543016890&auto=format&frame=1&q=92&s=c9820e5941bcab4bc44bb9e4bb9db649",
     "location": "Sedona, AZ",
     "category": "Sculpture",
-    "goal": 3300,
-    "pledged": 1220,
-    "backer_count": 75,
-    "days_left": 33
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "JunkYardRabbits Mystical Oceans - Enamel Pin Series",
@@ -1296,10 +1112,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/555/625/b50e15e90c447d19342997664f89e6b9_original.jpeg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544751904&auto=format&frame=1&q=92&s=8494df08eee51076db15165b6a08cd0d",
     "location": "Sydney, AU",
     "category": "Art",
-    "goal": 500,
-    "pledged": 100,
-    "backer_count": 1,
-    "days_left": 39
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "teaching the future artist",
@@ -1310,10 +1124,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/496/531/7ceed9e720e426b935302d89696989ae_original.JPG?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544151228&auto=format&frame=1&q=92&s=cf2ae3b46f988936f940af265b476dbf",
     "location": "Marshalltown, IA",
     "category": "Painting",
-    "goal": 12000,
-    "pledged": 3460,
-    "backer_count": 39,
-    "days_left": 27
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Custom Fishing Lures",
@@ -1324,10 +1136,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/889/963/a2b32ea4af5bb87ab960da45092595ce_original.jpeg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1539532679&auto=format&frame=1&q=92&s=c62e55aaa7ba6cabca5455c36a6080ae",
     "location": "Redgranite, WI",
     "category": "Painting",
-    "goal": 10000,
-    "pledged": 5510,
-    "backer_count": 96,
-    "days_left": 40
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Night Skies book",
@@ -1338,10 +1148,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/438/568/97272b77dfaeaaccec2d32041025d3ee_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543643614&auto=format&frame=1&q=92&s=46274fba0a8a692c15f54a63b1d7dd50",
     "location": "Bend, OR",
     "category": "Painting",
-    "goal": 14928,
-    "pledged": 5470,
-    "backer_count": 162,
-    "days_left": 47
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Ghost Game - Short Film",
@@ -1352,10 +1160,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/419/459/9501b236f177fc077c69f6fc847828db_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543489513&auto=format&frame=1&q=92&s=b4eeac4b10ce56ba18de4d763af8adb6",
     "location": "Bath, UK",
     "category": "Comedy",
-    "goal": 30,
-    "pledged": 0,
-    "backer_count": 0,
-    "days_left": 7
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Criando impostores. La importancia de la vocación.",
@@ -1366,10 +1172,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/403/975/fa854662edb9f7eb1b4397c1ea365be2_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543364386&auto=format&frame=1&q=92&s=e95875278ec7f6dab56f832009b570ae",
     "location": "Queretaro, Mexico",
     "category": "Documentary",
-    "goal": 45000,
-    "pledged": 1020,
-    "backer_count": 21,
-    "days_left": 45
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Born In The Night (TV Series)",
@@ -1380,10 +1184,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/340/097/948699fb2c06460fc37c511e14ac6266_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542798751&auto=format&frame=1&q=92&s=0c2fb2050c07d49e30f5d8750019893b",
     "location": "Italia, Italy",
     "category": "Television",
-    "goal": 30000,
-    "pledged": 13340,
-    "backer_count": 234,
-    "days_left": 30
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Big Jim's RIDE AROUND AMERICA FOR ADDICTION AWARENESS 2019",
@@ -1394,10 +1196,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/287/296/ad6951715aefae957e3acc0b2f91fb36_original.JPG?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542373532&auto=format&frame=1&q=92&s=896d12de2c7ca31ccff4465ca74556c9",
     "location": "Sacramento, CA",
     "category": "Documentary",
-    "goal": 175000,
-    "pledged": 169270,
-    "backer_count": 3662,
-    "days_left": 22
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Hawaii Vice: The Movie",
@@ -1408,10 +1208,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/553/025/a8c7544b2e923decb506dd23d69263f7_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1544730110&auto=format&frame=1&q=92&s=5b0d035a23bd4211fd22303012372a9c",
     "location": "Honolulu, HI",
     "category": "Action",
-    "goal": 30155,
-    "pledged": 19660,
-    "backer_count": 1377,
-    "days_left": 51
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Beky Techie Animated Cartoon Series",
@@ -1422,10 +1220,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/424/617/7b24196ef3bf36160cc6cd34d5bf7c6a_original.PNG?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543523590&auto=format&frame=1&q=92&s=86426c4f4a6f56abf6b96a8c5bad719e",
     "location": "Plano, TX",
     "category": "Film & Video",
-    "goal": 3500,
-    "pledged": 2980,
-    "backer_count": 30,
-    "days_left": 32
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Transit: A New York City Fairy Tale",
@@ -1436,10 +1232,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/022/457/645/56348ab5180de55e93c9c966f6c889f1_original.png?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1536166113&auto=format&frame=1&q=92&s=eaaa33e1e6f9eb0c64be4b4de10a6a21",
     "location": "New York, NY",
     "category": "Shorts",
-    "goal": 7000,
-    "pledged": 5030,
-    "backer_count": 346,
-    "days_left": 6
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "A Sci-fi 2D &3D short animated film -\"YIJI \"",
@@ -1450,10 +1244,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/295/294/fb9a24afbe0bb15cb5188679b2e1c2d9_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542432163&auto=format&frame=1&q=92&s=3ffeaec7fd8c0c60082d64b488a06508",
     "location": "Vancouver, Canada",
     "category": "Animation",
-    "goal": 3000,
-    "pledged": 2180,
-    "backer_count": 27,
-    "days_left": 35
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Dovetail",
@@ -1464,10 +1256,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/015/211/869/be36b3487ccbe57fe64c3d575fdbacdc_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542987034&auto=format&frame=1&q=92&s=0868e4095a7e7df3b76594e6130e858c",
     "location": "London, UK",
     "category": "Shorts",
-    "goal": 2000,
-    "pledged": 1030,
-    "backer_count": 19,
-    "days_left": 45
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "They're Playing Our Song",
@@ -1478,10 +1268,8 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/270/968/69c3b7ae779d28690fdbd566f4acaf21_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542257905&auto=format&frame=1&q=92&s=eb256848830cd0041b0d222950ec2ddf",
     "location": "Savannah, GA",
     "category": "Drama",
-    "goal": 500,
-    "pledged": 270,
-    "backer_count": 3,
-    "days_left": 37
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
   {
     "name": "Transmisión de los Cmapeonatos de Categorias Formativas",
@@ -1492,12 +1280,9 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/459/550/314ae83c8974478e07a24c3ff443f726_original.jpeg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1543866544&auto=format&frame=1&q=92&s=342bf27f69cd44e8280b573bffe162ea",
     "location": "Quito, Ecuador",
     "category": "Film & Video",
-    "goal": 9600,
-    "pledged": 2490,
-    "backer_count": 37,
-    "days_left": 34
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   },
-
   {
     "name": "Journey through beholden EYES...",
     "creator": "Scott Dobrzynski",
@@ -1507,9 +1292,7 @@
     "full_img": "https://ksr-ugc.imgix.net/assets/023/295/739/c3cf633b42beff3d20d13d6711b01767_original.jpg?ixlib=rb-1.1.0&crop=faces&w=560&h=315&fit=crop&v=1542438548&auto=format&frame=1&q=92&s=05839a22640720c3ca678998621cfb99",
     "location": "Los Angeles, CA",
     "category": "Narrative Film",
-    "goal": 10000,
-    "pledged": 0,
-    "backer_count": 0,
-    "days_left": 2
+    "created_at": "THIS WILL BE A createdAt_date",
+    "description": "THIS WILL BE A DESCRIPTION"
   }
 ]
